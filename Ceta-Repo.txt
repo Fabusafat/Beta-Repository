@@ -1,0 +1,2 @@
+This is Ceta file that created by Fadi.
+I am doing Git training and enjoying commands
